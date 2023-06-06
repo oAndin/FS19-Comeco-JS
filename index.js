@@ -19,6 +19,8 @@ let number = 1;
 let string = `Uma linha`;
 let boolean = true | false ;
 
+// get element by Class and save into a variable 
+
 let p = document.querySelector(`p`);
 
 p.innerHTML = `Frase inserida com JS`;
